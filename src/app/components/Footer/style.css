@@ -1,0 +1,22 @@
+/* styles/globals.css */
+.fa-facebook {
+    color: #4267B2; /* Facebook blue */
+  }
+  
+  .fa-twitter {
+    color: #1DA1F2; /* Twitter blue */
+  }
+  
+  .fa-dribbble {
+    color: #ea4c89; /* Dribbble pink */
+  }
+  
+  .fa-behance {
+    color: #1769ff; /* Behance blue */
+  }
+  
+  /* Adjust size if needed */
+  .fa-facebook, .fa-twitter, .fa-dribbble, .fa-behance {
+    font-size: 24px; /* Example size */
+  }
+  
