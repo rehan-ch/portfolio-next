@@ -9,7 +9,7 @@ const About = ()=>{
                 <div className="welcome_text">
                     <h4>About Myself</h4>
                     <p>Senior Software Engineer with 4+ years in web app development, specializing in Ruby on Rails and React. Skilled in building scalable, user-focused solutions and delivering high-quality software. Committed to leveraging technology to drive innovation and enhance user experiences. Let’s connect to achieve your project goals.</p>
-                    <a href="#" className="btn btn-primary btn-rounded contact-btn">Get In Touch</a>
+                    <a href="#" className="btn btn-primary btn-rounded btn-default">Get In Touch</a>
                 </div>
             </div>
             <div className="col-lg-6 wow animate__animated animate__fadeInUp" data-wow-delay=".6s">

@@ -62,7 +62,7 @@ const Banner = ()=>{
                                         <li><a href="#"><i className="lnr lnr-envelope"></i><FontAwesomeIcon icon={faEnvelope} />  rehanch642@gmail.com</a></li>
                                         <li>
                                             {/* <a href="#" className='btn btn-primary btn-rounded contact-btn'>Download CV</a> */}
-                                        <button className='btn btn-primary btn-rounded contact-btn'
+                                        <button className='btn btn-primary btn-rounded btn-default'
                                             onClick={downloadFavicon}>
                                             Download Cv
                                         </button></li>
